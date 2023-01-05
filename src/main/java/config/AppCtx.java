@@ -2,6 +2,8 @@ package config;
 
 
 import spring.MemberPrinter;
+import spring.MemberSummaryPrinter;
+import spring.VersionPrinter;
 
 @Cofiguration
 @ComponentScan(basePackages = {"Spring"})
