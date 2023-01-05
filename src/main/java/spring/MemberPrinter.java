@@ -1,5 +1,7 @@
 package spring;
 
+import org.springframework.beans.factory.annotation.Autowired;
+
 import java.time.format.DateTimeFormatter;
 
 public class MemberPrinter {
