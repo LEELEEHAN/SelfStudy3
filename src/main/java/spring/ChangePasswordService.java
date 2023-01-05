@@ -1,5 +1,5 @@
 package spring;
-
+@Component
 public class ChangePasswordService {
     @Autowired
     private MemberDao memberDao;

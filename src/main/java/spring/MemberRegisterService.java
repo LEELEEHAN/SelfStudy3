@@ -6,6 +6,7 @@ import java.time.LocalDateTime;
 
 public class MemberRegisterService {
     @Autowired
+    @Component
     private MemberDao memberDao;
     public MemberRegisterService(){
     }
